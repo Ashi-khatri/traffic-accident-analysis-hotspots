@@ -1,4 +1,4 @@
-# 📊 SCT_DS_2 – Exploratory Data Analysis & Insights Project
+# 📊 Exploratory Data Analysis & Insights Project
 
 > A data science project focused on extracting meaningful insights using exploratory data analysis and visualization techniques.
 
